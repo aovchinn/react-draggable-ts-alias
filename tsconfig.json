@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "outDir": "tsOutDir",
+    "paths": {
+      "alias-reactDraggable": ["./node_modules/react-draggable"]
+    }
+  }
+}
